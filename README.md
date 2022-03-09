@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Lwazi-dev
 - 👀 I’m interested in changing from mechanical engineering and becoming a full stack web developer 
-- 🌱 I’m currently learning HTML, CSS, and JavaScript
+- 🌱 I’m currently learning HTML, CSS, and JavaScript as well as SQL
 - 💞️ I’m looking to collaborate on any projects that would help bolster my skills as a dev!
 - 📫 How to reach me: LwaziLM.Sidinile@gmail.com
 
